@@ -1,0 +1,155 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #bfbfbf;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Cursive;
+}
+nav {
+  margin-left: auto;
+  margin-right: 5%;
+}
+
+header {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  background-color: #121212;
+  border-radius: 10px;
+}
+.container {
+  display: flex;
+}
+section {
+  background-color: #121212;
+  height: 863px;
+  width: 55%;
+  border-radius: 10px;
+}
+.div-section {
+  width: 700px;
+  height: 500px;
+  margin-top: 200px;
+  margin-left: 150px;
+}
+.div-iletisim {
+  width: 700px;
+  height: 500px;
+  margin-top: 50px;
+  margin-left: 30%;
+}
+aside {
+  background-color: #121212;
+  height: 863px;
+  width: 45%;
+  border-radius: 10px;
+}
+.div-aside-one {
+  width: 500px;
+  height: 500px;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+.div-aside-two {
+  width: 450px;
+  height: 450px;
+  margin-top: 25px;
+  margin-left: 25px;
+}
+.div-aside-three {
+  width: 410px;
+  height: 400px;
+  margin-top: 16px;
+  margin-left: 16px;
+}
+#emoji {
+  font-size: 50px;
+  margin-right: 10px;
+}
+
+#header-content {
+  display: flex;
+  align-items: center;
+}
+
+.border {
+  padding: 5px;
+  border-radius: 10px;
+  background-color: #1f1f1f;
+}
+
+.hakkimda {
+  background-color: #121212;
+  height: 950px;
+}
+
+#hakkimda-paragraf {
+  text-indent: 30px;
+  margin-top: 75px;
+  margin-left: 150px;
+  margin-right: 150px;
+  padding: 30px;
+  background-color: #1f1f1f;
+}
+
+#my-skills {
+  margin-left: 150px;
+  margin-top: 75px;
+  margin-right: 150px;
+}
+.container-skills {
+  width: 100%;
+  background-color: #ddd;
+}
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.html {
+  width: 70%;
+  background-color: #bb86fc;
+}
+.css {
+  width: 40%;
+  background-color: #bb86fc;
+}
+.js {
+  width: 0%;
+  background-color: #bb86fc;
+}
+.bootsrap {
+  width: 0%;
+  background-color: #bb86fc;
+}
+.Csharp {
+  width: 80%;
+  background-color: #bb86fc;
+}
+.SQL {
+  width: 40%;
+  background-color: #bb86fc;
+}
+.asp-dot-net-core {
+  width: 0%;
+  background-color: #bb86fc;
+}
+
+#my-projects {
+  background-color: #121212;
+  height: 750px;
+}
+
+.project {
+  width: 400px;
+  height: 400px;
+  background-color: #bb86fc;
+}
+#iletisim {
+  background-color: #121212;
+  height: 600px;
+}
